@@ -85,7 +85,7 @@ To remove your default payment method, first set a different payment method as d
 > [!TIP]
 > Do you need to pay by invoice? [Upgrade to a Docker Business or Docker Team plan](https://www.docker.com/pricing?ref=Docs&refAction=DocsBillingPaymentMethod) and choose the annual subscription.
 
-Pay by invoice is available for annual Docker Team and Docker Business subscriptions. Docker Sales may need to enable pay by invoice on your account before it appears in Docker Home. For the first subscription period, you pay using a payment card or ACH bank transfer. At renewal time, instead of automatic payment, you'll receive an invoice by email that you must pay manually.
+Pay by invoice is available for annual Docker Team and Docker Business subscriptions. Docker Sales may need to enable pay by invoice on your account before it appears in Docker Home. For the first subscription period, you pay using a payment card or ACH bank transfer. At renewal time, instead of automatic payment, you'll receive an invoice by email that you must pay manually.  
 
 Follow these steps to enable or disable pay by invoice:
 
