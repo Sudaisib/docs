@@ -58,12 +58,14 @@ The following Docker Scout features were retired:
   base-image updates and build with `--provenance=mode=max` for
   image-to-source linkage.
 
-The following is deprecated and will be retired on July 30, 2026:
+The following Docker Scout feature was announced for retirement on July 30, 2026,
+and has now been retired:
 
 - Slack integration: Vulnerability and policy compliance notifications to Slack
   channels.
 
-The following are deprecated and will be retired on September 1, 2026:
+The following Docker Scout features were announced for retirement on September 1,
+2026, and have now been retired:
 
 - Notifications: In-product and email notifications about newly disclosed CVEs.
 - Amazon ECR integration: Automatically analyzed images pushed to ECR
